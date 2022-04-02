@@ -1,2 +1,1 @@
-# go-exp-demo
-插件化 exp demo
+文章地址: [https://bingbingzi.cn/golang-实现插件化-exp/](https://bingbingzi.cn/golang-实现插件化-exp/)
